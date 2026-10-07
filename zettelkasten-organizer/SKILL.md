@@ -2,11 +2,11 @@
 name: zettelkasten-organizer
 description: "Audit and maintain Zettelkasten slip-boxes in Obsidian."
 version: 3.2.0
-author: absolute-duckdev, Hermes Agent
+author: Lofisons, Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
 metadata:
-  author: absolute-duckdev
+  author: Lofisons
   version: "3.2.0"
   hermes:
     tags: [obsidian, zettelkasten, notes, knowledge-base, markdown]

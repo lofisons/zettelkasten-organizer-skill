@@ -110,7 +110,7 @@ zettelkasten-organizer-skill/
 
 ## License
 
-[MIT](LICENSE) © 2026 [absolute-duckdev](https://github.com/absolute-duckdev)
+[MIT](LICENSE) © 2026 [Lofisons](https://github.com/lofisons)
 
 ## Credits
 
