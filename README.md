@@ -1,8 +1,8 @@
 # Zettelkasten Organizer
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-3.2.0-2ea44f)](https://github.com/absolute-duckdev/zettelkasten-organizer-skill/releases)
-[![Stars](https://img.shields.io/github/stars/absolute-duckdev/zettelkasten-organizer-skill)](https://github.com/absolute-duckdev/zettelkasten-organizer-skill)
+[![Version](https://img.shields.io/badge/version-3.2.0-2ea44f)](https://github.com/lofisons/zettelkasten-organizer-skill/releases)
+[![Stars](https://img.shields.io/github/stars/lofisons/zettelkasten-organizer-skill)](https://github.com/lofisons/zettelkasten-organizer-skill)
 [![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=white)](#installation)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?logo=anthropic&logoColor=white)](#installation)
 [![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-000000)](#installation)
